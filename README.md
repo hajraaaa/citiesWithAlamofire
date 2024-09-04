@@ -1,7 +1,7 @@
 # Country and City Search App
 This iOS application displays a list of countries and their respective cities, allowing users to search and filter them.The app follows the MVVM (Model-View-ViewModel) design pattern. Networking is handled by Alamofire for retrieving API data. Users can search by city name to find the corresponding country or search by country name to find related cities.
 
-# Features
+## Features
 -- **Country and City Display**: The app shows a list of countries and their cities.
 -- **Search Functionality**: Users can search for cities based on the city name or the country name, with results filtered accordingly.
 -- **Networking**: API data is fetched using Alamofire.
