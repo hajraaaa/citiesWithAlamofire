@@ -8,8 +8,8 @@ This iOS application displays a list of countries and their respective cities, a
 
 ## Installation and Setup
 ### Prerequisites
-Xcode 12 or later
-iOS 13.0 or later
+- Xcode 12 or later
+- iOS 13.0 or later
 
 ### Steps to Run the App
 
